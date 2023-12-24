@@ -1,5 +1,0 @@
-1 Helmet
-2 Shoulder Pad 
-3 Gloves
-4 Knee pad
-5 Mouthpiece
