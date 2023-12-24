@@ -1,0 +1,6 @@
+1 Bat
+2 Ball
+3 Helmet
+4 Pad
+5 Gloves
+6 Stumps
